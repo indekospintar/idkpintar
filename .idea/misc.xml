@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Project/indekospintarv1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/drawable/custom_rectangle.xml" value="0.2140625" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/drawable/splash_bg.xml" value="0.21354166666666666" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/layout/about.xml" value="0.25" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/layout/activity_splash_screen.xml" value="0.19791666666666666" />
+        <entry key="..\:/Project/indekospintarv1/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
